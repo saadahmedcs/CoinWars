@@ -11,4 +11,4 @@ P.S. You can customise the game's look by replacing the font file (arial.ttf) - 
 \
 **Credits:**\
 [cowster36](https://github.com/cowster36) - SFML implementation, random maze generation, shortest path algorithm, single-round gameplay\
-[saadahmed1084](https://github.com/saadahmed1084) - multi-round combat system involving swords and health points, AVL-tree based scoreboard
+[saadahmedcs](https://github.com/saadahmedcs) - multi-round combat system involving swords and health points, AVL-tree based scoreboard
